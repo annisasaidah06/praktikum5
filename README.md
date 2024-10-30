@@ -101,7 +101,8 @@ class Persegi extends BangunDatar {
 }
 ```
 
-![](ss/Persegi.jpeg)
+![](![Persegi](https://github.com/user-attachments/assets/6ecaef41-c9d1-450e-aeae-6aef98913b57)
+)
 
 ## Segitiga
 
@@ -129,8 +130,10 @@ class Segitiga extends BangunDatar {
 }
 ```
 
-![](ss/Segitiga.jpeg)
+![](![Segitiga](https://github.com/user-attachments/assets/e447aeaf-e3df-4704-97a1-faa4f3f558e1)
+)
 
 ## Output
 
-![](ss/Output.jpeg)
+![Output](https://github.com/user-attachments/assets/6432fe7a-3fc0-4cf3-8456-3fe7336fa657)
+
