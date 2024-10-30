@@ -48,7 +48,7 @@ class BangunDatar {
     }
 }
 ```
-![](ss/Bangun%20Datar.jpeg)
+
 
 ## Lingkaran
 
