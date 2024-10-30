@@ -6,7 +6,7 @@
 |**Nama**  | Annisa Saidah Mubarokah |
 |**NIM**   | 312310631 |
 |**Kelas** | TI.23.A6 |
-|**Mata Kuliah** | pemograman beriotensi objek |
+|**Mata Kuliah** | pemograman orientasi objek |
 
 # Praktikum5
 
@@ -31,7 +31,7 @@ public class Utama {
     }
 }
 ```
-![](ss/Class%20Utama.jpeg)
+
 
 ## Bangun Datar
 
@@ -74,7 +74,7 @@ class Lingkaran extends BangunDatar {
 }
 ```
 
-![](ss/Lingkaran.jpeg)
+
 
 
 ## Persegi
@@ -101,8 +101,7 @@ class Persegi extends BangunDatar {
 }
 ```
 
-![](![Persegi](https://github.com/user-attachments/assets/6ecaef41-c9d1-450e-aeae-6aef98913b57)
-)
+
 
 ## Segitiga
 
@@ -130,8 +129,7 @@ class Segitiga extends BangunDatar {
 }
 ```
 
-![](![Segitiga](https://github.com/user-attachments/assets/e447aeaf-e3df-4704-97a1-faa4f3f558e1)
-)
+
 
 ## Output
 
